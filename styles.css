@@ -119,7 +119,7 @@ header {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image: url(../img/prototype1.jpeg);
+    background-image: url(./logo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
